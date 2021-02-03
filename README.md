@@ -1,3 +1,3 @@
 # Certificates
 
-### A collection of completition certificates I have earned from various courses and organizations.
+### A simple collection of completition certificates earned from various courses and organizations.
